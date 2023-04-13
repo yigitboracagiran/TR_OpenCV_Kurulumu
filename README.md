@@ -12,6 +12,6 @@ d) `cd build` ile oluşturduğumuz dizinine gidiyoruz.
 
 e) `cmake ..` ile build klasörünün konfigürasyonu yapılıyor.
 
-f) 'make' komutu ile OpenCV'yi derliyoruz.
+f) `make` komutu ile OpenCV'yi derliyoruz.
 
 g) `sudo make install` ile de Opencv'yi kuruyoruz.
