@@ -10,7 +10,7 @@ c) `mkdir build` ile build klasörü oluşturuyoruz.
 
 d) `cd build` ile oluşturduğumuz dizinine gidiyoruz.
 
-e) `cmake ..` ile build klasörünün konfigürasyonu yapılıyor.
+e) `cmake ..` ile build klasörünün konfigürasyonunu yapıyoruz.
 
 f) `make` komutu ile OpenCV'yi derliyoruz.
 
